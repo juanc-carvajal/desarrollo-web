@@ -11,4 +11,4 @@ Sebastian Zapata Rodríguez </center></font></h3>
 <font  face="Courier New" size="3">
 <p1><center> </center></p1>
 
-<p1>En este repositorio se cargarán todos los archivos correspondientes a los trabajos de la materia Tecnologías Para Desarrollo De Aplicaciones Web del programa Bioingeniería.</p1> 
+En este repositorio se cargarán todos los archivos correspondientes a los trabajos de la materia Tecnologías Para Desarrollo De Aplicaciones Web del programa Bioingeniería.
