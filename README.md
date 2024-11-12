@@ -3,12 +3,11 @@
 Tecnologías Para Desarrollo De Aplicaciones Web</center></font></h1>
 <h2><font color='0B5345'> <center>
 2024-2</center></font></h2>
-<h3><font color='0B5345'> <center>
+<p1><font color='0B5345'> <center>
 Juan Camilo Carvajal Sierra<br>
 Juan Pablo Restrepo Mancilla<br>
 Juan David Santofimio Rojas<br>
-Sebastian Zapata Rodríguez<br></center></font></h3>
-<font  face="Courier New" size="3">
-<p1><center> </center></p1>
+Sebastian Zapata Rodríguez<br></center></font></p1>
+<p1><font color='0B5345'> <center>
+En este repositorio se cargarán todos los archivos correspondientes a los trabajos de la materia Tecnologías Para Desarrollo De Aplicaciones Web del programa Bioingeniería.</center></font></p1>
 
-En este repositorio se cargarán todos los archivos correspondientes a los trabajos de la materia Tecnologías Para Desarrollo De Aplicaciones Web del programa Bioingeniería.
