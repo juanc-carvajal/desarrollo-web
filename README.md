@@ -4,7 +4,10 @@ Tecnologías Para Desarrollo De Aplicaciones Web</center></font></h1>
 <h2><font color='0B5345'> <center>
 2024-2</center></font></h2>
 <h3><font color='0B5345'> <center>
-Juan Camilo Carvajal Sierra - Juan Pablo Restrepo Mancilla - Juan David Santofimio Rojas - Sebastian Zapata Rodríguez </center></font></h3>
+Juan Camilo Carvajal Sierra
+Juan Pablo Restrepo Mancilla
+Juan David Santofimio Rojas
+Sebastian Zapata Rodríguez </center></font></h3>
 <font  face="Courier New" size="3">
 <p1><center> </center></p1>
 
